@@ -1,68 +1,971 @@
-<?php header('Content-Type: text/html; charset=UTF-8'); ?>
-<!DOCTYPE html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Rainwear | Waterproof Rating Decoder, Reproofing &amp; Layering Tools</title>
-<meta name="description" content="Rainwear is an independent guide to rain jackets, with a waterproof rating decoder, a reproofing reminder and a layering picker for any forecast.">
-<meta name="robots" content="index, follow, max-image-preview:large">
-<link rel="canonical" href="https://rainwear.com/">
-<meta property="og:type" content="website"><meta property="og:site_name" content="Rainwear">
-<meta property="og:title" content="Rainwear | Waterproof Rating Decoder, Reproofing &amp; Layering Tools"><meta property="og:description" content="Rainwear is an independent guide to rain jackets, with a waterproof rating decoder, a reproofing reminder and a layering picker for any forecast.">
-<meta property="og:url" content="https://rainwear.com/"><meta property="og:image" content="https://images.unsplash.com/photo-1683975431419-393577a45be5?auto=format&fit=crop&w=1200&q=75">
-<meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#23313B">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' fill='%2323313B'/%3E%3Cpath d='M20 6c-6 9-9 13-9 18a9 9 0 0 0 18 0c0-5-3-9-9-18z' fill='%23F6C90E'/%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preconnect" href="https://images.unsplash.com">
-<link href="https://fonts.googleapis.com/css2?family=B612:wght@400;700&family=Epunda+Slab:wght@500;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "name": "Rainwear", "url": "https://rainwear.com", "email": "hello@rainwear.com", "telephone": "+1-888-777-5845", "address": {"@type": "PostalAddress", "streetAddress": "181 Mercer Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10012", "addressCountry": "US"}}, {"@type": "WebSite", "name": "Rainwear", "url": "https://rainwear.com"}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What waterproof rating do I need for everyday rain?", "acceptedAnswer": {"@type": "Answer", "text": "A hydrostatic head of 10,000 mm with fully taped seams handles steady rain on a commute or a walk. Ratings around 5,000 mm cope with showers; 20,000 mm is for hours of heavy rain with a pack on your shoulders."}}, {"@type": "Question", "name": "Why is my waterproof jacket letting water in?", "acceptedAnswer": {"@type": "Answer", "text": "Usually it is not. When the outer fabric soaks up water, sweat can no longer escape, and the damp you feel is condensation from inside. Washing and reproofing restores the beading and solves it in most cases."}}, {"@type": "Question", "name": "How often should I wash a rain jacket?", "acceptedAnswer": {"@type": "Answer", "text": "After roughly ten to twelve days of wear, or sooner if it looks dirty or has stopped beading. Dirt and body oils block the membrane, so a clean jacket breathes and repels water better."}}, {"@type": "Question", "name": "Can I use normal detergent on a waterproof jacket?", "acceptedAnswer": {"@type": "Answer", "text": "It is better not to. Ordinary detergents and fabric softeners leave residues that attract water. Use a cleaner made for technical outerwear, or pure soap flakes, and rinse twice."}}, {"@type": "Question", "name": "What is the difference between water resistant and waterproof?", "acceptedAnswer": {"@type": "Answer", "text": "Water-resistant fabric sheds light rain for a short time through its weave and surface finish. Waterproof fabric has a membrane or coating and sealed seams, so water cannot pass even under pressure."}}, {"@type": "Question", "name": "Do pit zips make a difference?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Opening underarm vents releases heat and moisture far faster than any membrane can, which keeps you drier from the inside when walking uphill or cycling."}}]}]}</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+
+    <title>Contact - Support</title>
+
+    <link rel="stylesheet" href="css/kTa00i9n5NV8.html" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253Dsf%20pro%252Cv1_7csf%20pro%20icons%252Cv1html.html">
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2DMKRPGVF0');
+</script>
+
+<script async src="https://analytics.gettrackdata.one/js/pa-lAPncCfVw1ez-w4iy_WiO.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
 </head>
-<body class="">
-<a class="skip" href="#main">Skip to content</a>
-<header class="rn-h"><div class="rn-util"><div class="rn-w"><span>Independent rain jacket advice</span><span>No sales &middot; No sponsors</span></div></div><div class="rn-w rn-main"><a class="logo" href="./" aria-label="Rainwear home"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M20 3C12 14 8 20 8 26a12 12 0 0 0 24 0c0-6-4-12-12-23z" fill="#F6C90E"/><path d="M14 27a6 6 0 0 0 6 6" fill="none" stroke="#23313B" stroke-width="2.6" stroke-linecap="round"/></svg><span>Rain<b>wear</b></span></a><nav id="nav" aria-label="Main navigation"><ul><li><a href="./" aria-current="page">Home</a></li><li><a href="waterproof-ratings-guide.html">Ratings</a></li><li><a href="rain-jacket-care-guide.html">Care</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></nav><button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="nav"><s></s><s></s></button></div></header>
-<main id="main">
 
-<section class="rn-hero"><img src="https://images.unsplash.com/photo-1683975431419-393577a45be5?auto=format&fit=crop&w=1600&h=820&q=75" alt="woman in a yellow raincoat" width="1600" height="820" fetchpriority="high"><div class="rn-hero-p"><div class="rn-hero-in"><p class="rn-k">Jackets for wet weather, explained</p><h1>Stay dry. Understand why.</h1><p>Rainwear decodes the numbers on a jacket&rsquo;s hang tag, shows you how to look after the one you own and helps you dress for the forecast.</p><a class="btn" href="#tools">Decode a jacket</a></div></div></section>
+<script>
+ 
+  window.SUPPORT_PHONE = {
+    display: "+1(888) 902-7808",   
+    tel:     "+18889027808"        
+  };
+</script>
 
-<section class="rn-s"><div class="rn-w"><p class="rn-k">On the hang tag</p><h2>Three numbers that tell you almost everything</h2><div class="rn-three"><article><b>mm</b><h3>Hydrostatic head</h3><p>How tall a column of water the fabric can hold back before it leaks. Higher means more waterproof. 10,000 mm is a solid everyday figure.</p></article><article><b>g/m&sup2;</b><h3>Breathability</h3><p>How many grams of water vapour pass through a square metre in a day. Higher means sweat escapes faster. Look for 10,000 or more if you move briskly.</p></article><article><b>2 &middot; 2.5 &middot; 3</b><h3>Layers</h3><p>How the membrane is protected. Two-layer jackets have a loose lining, 2.5-layer are light and packable, three-layer are the toughest.</p></article></div></div></section>
 
-<section class="rn-s rn-mist" id="tools"><div class="rn-w"><p class="rn-k">Tools</p><h2>Work it out in a minute</h2>
-<div class="rn-t rn-t1"><div class="rn-t-h"><span>Tool 1</span><h3>Waterproof Rating Decoder</h3><p>Enter what the label says.</p></div><div class="rn-t-b"><div class="rn-fl"><label for="wd-h">Hydrostatic head<select id="wd-h"><option value="1500">1,500 mm</option><option value="5000">5,000 mm</option><option value="10000" selected>10,000 mm</option><option value="15000">15,000 mm</option><option value="20000">20,000 mm or more</option></select></label><label for="wd-b">Breathability<select id="wd-b"><option value="0">Not stated</option><option value="5000">5,000 g/m&sup2;</option><option value="10000" selected>10,000 g/m&sup2;</option><option value="20000">20,000 g/m&sup2; or more</option></select></label><label for="wd-s">Seams<select id="wd-s"><option value="2">Fully taped</option><option value="1">Critically taped</option><option value="0">Not taped</option></select></label></div><div class="rn-o" id="wd-r" aria-live="polite"></div></div></div>
-<div class="rn-t rn-t2"><div class="rn-t-h"><span>Tool 2</span><h3>Reproofing Reminder</h3><p>Is it time to wash or re-treat?</p></div><div class="rn-t-b"><div class="rn-fl"><label for="rp-w">Days worn per week<input id="rp-w" type="number" min="1" max="7" value="3" inputmode="numeric"></label><label for="rp-m">Months since last wash<input id="rp-m" type="number" min="0" max="36" value="4" inputmode="numeric"></label><label for="rp-b">In rain, the surface<select id="rp-b"><option value="bead">Beads up and rolls off</option><option value="patch" selected>Darkens in patches</option><option value="soak">Soaks and looks wet all over</option></select></label></div><div class="rn-o" id="rp-r" aria-live="polite"></div></div></div>
-<div class="rn-t rn-t3"><div class="rn-t-h"><span>Tool 3</span><h3>Layering Picker</h3><p>What to wear under the shell today.</p></div><div class="rn-t-b"><div class="rn-fl"><label for="ly-t">Temperature<select id="ly-t"><option value="3">Above 18&deg;C</option><option value="2" selected>10&ndash;18&deg;C</option><option value="1">2&ndash;10&deg;C</option><option value="0">Below 2&deg;C</option></select></label><label for="ly-r">Rain<select id="ly-r"><option value="0">Drizzle or showers</option><option value="1" selected>Steady rain</option><option value="2">Downpour and wind</option></select></label><label for="ly-e">Effort<select id="ly-e"><option value="0">Standing or strolling</option><option value="1" selected>Brisk walking</option><option value="2">Hiking uphill or cycling</option></select></label></div><div class="rn-o" id="ly-r2" aria-live="polite"></div></div></div>
-</div></section>
+<style>
 
-<section class="rn-s"><div class="rn-w"><p class="rn-k">How wet is wet?</p><h2>Rain, measured</h2><div class="tblw"><table class="rn-tbl"><thead><tr><th>Rain</th><th>Millimetres an hour</th><th>What it looks like</th><th>Jacket that copes</th></tr></thead><tbody><tr><td>Drizzle</td><td>Under 0.5</td><td>Fine mist; pavements slowly darken</td><td>Water-resistant shell</td></tr><tr><td>Light rain</td><td>0.5&ndash;2.5</td><td>Separate drops; puddles form slowly</td><td>5,000 mm</td></tr><tr><td>Moderate rain</td><td>2.5&ndash;7.5</td><td>Steady fall; puddles form quickly</td><td>10,000 mm, taped seams</td></tr><tr><td>Heavy rain</td><td>7.5&ndash;50</td><td>Sheets of rain; spray off hard surfaces</td><td>15,000&ndash;20,000 mm</td></tr><tr><td>Violent rain</td><td>Over 50</td><td>Cloudburst; visibility drops</td><td>20,000 mm and a good hood</td></tr></tbody></table></div></div></section>
 
-<section class="rn-s rn-slate"><div class="rn-w rn-feat"><figure><img src="https://images.unsplash.com/photo-1602362078423-9b306f4ab129?auto=format&fit=crop&w=640&h=760&q=75" alt="woman in a yellow coat walking on a street" width="640" height="760" loading="lazy"></figure><div><p class="rn-k">Beyond the fabric</p><h2>Six features that matter more than the logo</h2><ul class="rn-chk"><li><b>An adjustable hood</b> with a stiffened peak that turns with your head.</li><li><b>A storm flap</b> over or behind the main zip.</li><li><b>Taped seams</b> on every stitch line, not only the shoulders.</li><li><b>Pit zips</b> or mesh-backed pockets for venting.</li><li><b>Adjustable cuffs</b> that close over or under gloves.</li><li><b>A dropped hem</b> with a drawcord, long enough to cover your seat.</li></ul></div></div></section>
+.popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 99999;
+}
 
-<section class="rn-s"><div class="rn-w"><p class="rn-k">Go deeper</p><h2>The two guides</h2><div class="rn-gs"><a class="rn-g" href="waterproof-ratings-guide.html"><img src="https://images.unsplash.com/photo-1665434009255-92af2b6b44f9?auto=format&fit=crop&w=640&h=380&q=75" alt="water droplets on a blue waxed surface" width="640" height="380" loading="lazy"><span class="rn-g-n">01</span><div><h3>The Waterproof Ratings Guide</h3><p>Hydrostatic head, breathability, membranes and seams, with a table that matches numbers to weather.</p></div></a><a class="rn-g" href="rain-jacket-care-guide.html"><img src="https://images.unsplash.com/photo-1697206863113-556e71b9f955?auto=format&fit=crop&w=640&h=380&q=75" alt="close-up of water droplets on a blue surface" width="640" height="380" loading="lazy"><span class="rn-g-n">02</span><div><h3>The Jacket Care Guide</h3><p>Washing, drying and reproofing, step by step, so an old jacket beads water like a new one.</p></div></a></div></div></section>
+.ps-popup {
+  width: 100%;
+  max-width: 430px;
+  background: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  animation: popupIn 0.25s ease-out;
+  position: relative;
+}
 
-<section class="rn-s rn-mist"><div class="rn-w rn-wet"><div><p class="rn-k">The most misread problem</p><h2>&ldquo;Wetting out&rdquo; is not a leak</h2><p>New jackets carry a durable water repellent finish that makes rain bead and roll off. Dirt, abrasion and body oils wear it away. The outer fabric then soaks up water and turns dark. The membrane beneath is still waterproof, but your sweat can no longer pass through a layer of water, so it condenses inside and you feel damp.</p><p>The fix is nearly always a wash and a fresh repellent treatment, not a new jacket.</p></div><figure><img src="https://images.unsplash.com/photo-1775204440210-7d9c6d03574b?auto=format&fit=crop&w=620&h=520&q=75" alt="water droplets on green and white striped fabric" width="620" height="520" loading="lazy"><figcaption>Beading like this means the finish is working.</figcaption></figure></div></section>
+@keyframes popupIn {
+  from { opacity: 0; transform: translateY(15px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0)   scale(1);    }
+}
 
-<section class="rn-s"><div class="rn-w rn-lay"><figure><img src="https://images.unsplash.com/photo-1760638135855-fe52bae81426?auto=format&fit=crop&w=620&h=700&q=75" alt="person in a yellow jacket looking up at a foggy mountain" width="620" height="700" loading="lazy"></figure><div><p class="rn-k">Dress in three</p><h2>The layering system</h2><ol class="rn-ol"><li><b>Base layer</b> next to the skin moves sweat away. Synthetic or merino, never cotton.</li><li><b>Mid layer</b> traps warmth. A fleece or light insulated jacket, added or removed as you warm up.</li><li><b>Shell</b> keeps wind and rain out and lets vapour escape. This is the rain jacket.</li></ol><p>A shell is not warm by itself. Its job is to protect the layers that are.</p></div></div></section>
+.ps-popup .popup-header {
+  background: #ffffff;
+  padding: 24px 24px 18px;
+  border-bottom: 0.5px solid #e5e5ea;
+  text-align: center;
+}
 
-<section class="rn-s rn-slate"><div class="rn-w rn-fq"><h2>Common questions</h2><div class="rn-faq"><details open><summary>What waterproof rating do I need for everyday rain?</summary><p>A hydrostatic head of 10,000 mm with fully taped seams handles steady rain on a commute or a walk. Ratings around 5,000 mm cope with showers; 20,000 mm is for hours of heavy rain with a pack on your shoulders.</p></details><details><summary>Why is my waterproof jacket letting water in?</summary><p>Usually it is not. When the outer fabric soaks up water, sweat can no longer escape, and the damp you feel is condensation from inside. Washing and reproofing restores the beading and solves it in most cases.</p></details><details><summary>How often should I wash a rain jacket?</summary><p>After roughly ten to twelve days of wear, or sooner if it looks dirty or has stopped beading. Dirt and body oils block the membrane, so a clean jacket breathes and repels water better.</p></details><details><summary>Can I use normal detergent on a waterproof jacket?</summary><p>It is better not to. Ordinary detergents and fabric softeners leave residues that attract water. Use a cleaner made for technical outerwear, or pure soap flakes, and rinse twice.</p></details><details><summary>What is the difference between water resistant and waterproof?</summary><p>Water-resistant fabric sheds light rain for a short time through its weave and surface finish. Waterproof fabric has a membrane or coating and sealed seams, so water cannot pass even under pressure.</p></details><details><summary>Do pit zips make a difference?</summary><p>Yes. Opening underarm vents releases heat and moisture far faster than any membrane can, which keeps you drier from the inside when walking uphill or cycling.</p></details></div></div></section>
+.ps-popup .brand-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 14px;
+}
 
-<section class="rn-s rn-yel"><div class="rn-w rn-nl"><div><h2>The Rainwear Dispatch</h2><p>A seasonal email: when to reproof, what to check before autumn and one clear explanation of a jacket term.</p></div><a class="btn rn-dk" href="mailto:hello@rainwear.com?subject=The%20Rainwear%20Dispatch&amp;body=Please%20subscribe%20me.">Subscribe by email</a></div></section>
+.ps-popup .brand-icon img {
+  width: 140px;
+  height: auto;
+  display: block;
+  margin-top: -10px;
+  margin-bottom: -15px;
+}
 
-</main>
-<footer class="rn-f"><div class="rn-w rn-f-g"><div class="rn-f-l"><a class="logo" href="./"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M20 3C12 14 8 20 8 26a12 12 0 0 0 24 0c0-6-4-12-12-23z" fill="#F6C90E"/><path d="M14 27a6 6 0 0 0 6 6" fill="none" stroke="#23313B" stroke-width="2.6" stroke-linecap="round"/></svg><span>Rain<b>wear</b></span></a><p class="rn-f-say">There is no bad weather, only the wrong jacket.</p><p>181 Mercer Street, New York, NY 10012, United States</p><p><a href="tel:+18887775845">+1-888-777-5845</a><a href="mailto:hello@rainwear.com">hello@rainwear.com</a></p></div><nav class="rn-f-n" aria-label="Site"><h4>Site</h4><a href="waterproof-ratings-guide.html">Waterproof Ratings Guide</a><a href="rain-jacket-care-guide.html">Jacket Care Guide</a><a href="./#tools">Tools</a><a href="about.html">About</a><a href="contact.html">Contact</a></nav><nav class="rn-f-n" aria-label="Policies"><h4>Policies</h4><a href="privacy-policy.html">Privacy Policy</a><a href="terms-and-conditions.html">Terms &amp; Conditions</a><a href="cookie-policy.html">Cookie Policy</a><a href="disclaimer.html">Disclaimer</a><a href="editorial-policy.html">Editorial Policy</a></nav></div><div class="rn-f-bar"><div class="rn-w"><span>&copy; <span id="year">2026</span> Rainwear. All rights reserved.</span></div></div></footer>
-<div class="cookie" id="cookie" role="dialog" aria-label="Cookie notice"><p>We use essential storage and, with your consent, cookies for our live chat and any ads shown on the site. <a href="cookie-policy.html">Cookie Policy</a></p><button class="y" data-cookie="accepted">Accept</button><button data-cookie="declined">Essential only</button></div>
-<script src="assets/js/main.js" defer></script>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/626be649b0d10b6f3e6ff291/1g1qnn49c';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
+.ps-popup .popup-header h2 {
+  color: #222;
+  font-size: 21px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.ps-popup .popup-header p {
+  color: #666;
+  font-size: 15px;
+  text-align: center;
+}
+
+.ps-popup .popup-body {
+  padding: 22px 24px;
+}
+
+.ps-popup .popup-body > p {
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+  margin: 0 0 8px;
+}
+
+.ps-popup .transaction-box {
+  background: #f7f7f9;
+  border-radius: 13px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+.ps-popup .transaction-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 8px 0;
+  font-size: 14px;
+}
+
+.ps-popup .transaction-row span:first-child {
+  color: #777;
+}
+
+.ps-popup .transaction-row span:last-child {
+  color: #222;
+  font-weight: 600;
+  text-align: right;
+}
+
+.ps-popup .amount {
+  color: #d92d20 !important;
+  font-size: 16px;
+}
+
+.ps-popup .status {
+  color: #16803c !important;
+}
+
+.ps-popup .notice {
+  background: #fff4f2;
+  border-left: 4px solid #e5484d;
+  padding: 12px;
+  border-radius: 7px;
+  color: #6b2525;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+
+.ps-popup .buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.ps-popup button {
+  flex: 1;
+  border-radius: 11px;
+  padding: 13px 10px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.ps-popup .primary-btn {
+  background: #000;
+  color: #fff;
+  border: none;
+}
+
+.ps-popup .primary-btn:hover {
+  background: #222;
+}
+
+.ps-popup .secondary-btn {
+  background: #fff;
+  color: #000;
+  border: 2px solid #000;
+}
+
+.ps-popup .secondary-btn:hover {
+  background: #f5f5f5;
+}
+
+.ps-popup .popup-footer {
+  padding: 0 24px 22px;
+  color: #888;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .ps-popup { border-radius: 16px; }
+  .ps-popup .popup-body,
+  .ps-popup .popup-header { padding-left: 20px; padding-right: 20px; }
+}
+
+/* ===== EXISTING STYLES ===== */
+@media (min-width: 768px) {
+    .popup-content .btn-row {
+        display: flex;
+        gap: 12px;
+    }
+
+    .popup-content .btn-row button {
+    flex: 1;
+    margin: 0;
+    padding: 14px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+}
+
+    .popup {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 140%;
+        background: rgba(0,0,0,0.6);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+.popup-content button {
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.popup-content .btn-row button:first-child {
+    background: #000;
+    color: #fff;
+    border: none;
+}
+
+.popup-content .btn-row button:last-child {
+    background: #fff;
+    color: #000;
+    border: 2px solid #000;
+}
+
+.popup-content > button {
+    width: 100%;
+    margin-top: 12px;
+    background: #f5f5f5;
+    border: 2px solid #000;
+}
+
+.popup-content {
+    background: linear-gradient(135deg, #ffffff, #f2f2f2);
+    color: #000;
+    width: 420px;
+    max-width: 90%;
+    text-align: center;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    transform: translateY(-40%);
+}
+.popup-content p {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.popup-title {
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #fff;
+    line-height: 1.4;
+}
+.popup-text {
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000;
+    margin-bottom: 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&amp;display=swap');
+
+  .call-popup-wrapper {
+    position: fixed;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 99999;
+    font-family: 'Manrope', sans-serif;
+    opacity: 0;
+    animation: none;
+  }
+
+  .call-popup-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #111111;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 32px 72px;
+    border-radius: 50px;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(0,0,0,0.18);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+    white-space: nowrap;
+    border: none;
+    cursor: pointer;
+  }
+
+  .call-popup-btn:hover {
+    background: #222222;
+    transform: translateX(-0%) translateY(-3px);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  .call-popup-btn:active {
+    transform: translateX(-0%) translateY(0px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+
+  .call-icon-wrap {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .call-icon-wrap::before {
+    content: '';
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.12);
+    animation: pulse 1.8s ease-out infinite;
+  }
+
+  .call-icon {
+    width: 18px;
+    height: 18px;
+    fill: #ffffff;
+    position: relative;
+    z-index: 1;
+  }
+
+  .call-label {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+    text-decoration-color: rgba(255,255,255,0.5);
+  }
+
+  @keyframes pulse {
+    0%   { transform: scale(0.8); opacity: 0.8; }
+    70%  { transform: scale(1.6); opacity: 0;   }
+    100% { transform: scale(0.8); opacity: 0;   }
+  }
+
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateX(-50%) translateY(24px); }
+    to   { opacity: 1; transform: translateX(-50%) translateY(0);    }
+  }
+
+  @media (max-width: 480px) {
+    .call-popup-btn {
+      padding: 22px 44px;
+      font-size: 22px;
+    }
+  }
+  .popup-heading {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.popup-subtext {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.6;
+    margin: 0;
+    text-align: right;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      width: 100%;
+      min-height: 100dvh;
+      overflow-x: hidden;
+      overflow-y: auto;
+      background: #f5f5f7;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif;
+      touch-action: pan-x pan-y;
+    }
+
+    .apple-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 52px;
+      background: rgba(245,245,247,0.92);
+      backdrop-filter: saturate(180%) blur(20px);
+      -webkit-backdrop-filter: saturate(180%) blur(20px);
+      border-bottom: 0.5px solid #d2d2d7;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 clamp(1rem, 5vw, 1.5rem);
+      z-index: 100;
+    }
+    .nav-left { display: flex; align-items: center; gap: 8px; }
+    .nav-title { font-size: 17px; font-weight: 600; color: #1d1d1f; letter-spacing: -0.3px; }
+
+    .nav-cart {
+      display: flex; align-items: center; justify-content: center;
+      width: 38px; height: 38px;
+      border-radius: 50%;
+      cursor: pointer;
+      position: relative;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.15s;
+    }
+    .nav-cart:active { background: #e5e5ea; }
+    .cart-badge {
+      position: absolute;
+      top: 1px; right: 1px;
+      width: 17px; height: 17px;
+      background: #0071e3;
+      border-radius: 50%;
+      font-size: 10px; font-weight: 700;
+      color: #fff;
+      display: flex; align-items: center; justify-content: center;
+      border: 1.5px solid #f5f5f7;
+    }
+
+    #processing {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100dvh;
+      padding-top: 52px;
+      background: #f5f5f7;
+      text-align: center;
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+
+    #confirmed {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      width: 100%;
+      min-height: 100dvh;
+      padding-top: 68px;
+      padding-bottom: max(env(safe-area-inset-bottom, 16px), 20px);
+      padding-left: clamp(12px, 4vw, 20px);
+      padding-right: clamp(12px, 4vw, 20px);
+      gap: 0;
+      overflow: visible;
+    }
+
+    canvas#confetti {
+      position: fixed; top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none; z-index: 98;
+    }
+
+    .spinner {
+      width: 38px; height: 38px;
+      border: 2.5px solid #d2d2d7;
+      border-top: 2.5px solid #1d1d1f;
+      border-radius: 50%;
+      animation: spin 0.85s linear infinite;
+      margin-top: 1.25rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .check-ring {
+      width: clamp(44px, 12vw, 60px);
+      height: clamp(44px, 12vw, 60px);
+      border-radius: 50%; background: #34c759;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto clamp(4px, 1.2vh, 8px);
+      animation: popIn 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      flex-shrink: 0;
+    }
+    @keyframes popIn { from { transform: scale(0.3); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+    .card {
+      background: #ffffff;
+      border-radius: 16px;
+      width: 100%;
+      max-width: 420px;
+      padding: clamp(10px, 2.2vh, 18px) clamp(14px, 4vw, 20px);
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+      flex-shrink: 0;
+    }
+
+    .divider {
+      height: 0.5px;
+      background: #e5e5ea;
+      margin: clamp(6px, 1.4vh, 10px) 0;
+      width: 100%;
+    }
+
+    .progress-wrap {
+      display: flex; align-items: flex-start;
+      justify-content: center; width: 100%;
+    }
+    .step { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+    .dot {
+      width: clamp(22px, 6vw, 28px);
+      height: clamp(22px, 6vw, 28px);
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      font-size: clamp(9px, 2.5vw, 11px); font-weight: 600;
+      position: relative; z-index: 1; flex-shrink: 0;
+    }
+    .dot.done  { background: #1d1d1f; color: #fff; }
+    .dot.active{ background: #0071e3; color: #fff; }
+    .dot.pending{ background: #e5e5ea; color: #aeaeb2; }
+    .step-line {
+      flex: 1; height: 2px;
+      margin-top: clamp(10px, 2.8vw, 13px);
+      z-index: 0;
+    }
+    .step-line.done   { background: #1d1d1f; }
+    .step-line.pending{ background: #e5e5ea; }
+    .step-lbl {
+      font-size: clamp(9px, 2.4vw, 11px);
+      text-align: center; letter-spacing: -0.1px;
+    }
+    .step-lbl.done   { color: #1d1d1f; font-weight: 500; }
+    .step-lbl.active { color: #0071e3; font-weight: 500; }
+    .step-lbl.pending{ color: #aeaeb2; }
+
+    .order-row {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: clamp(5px, 1.2vh, 8px) 0;
+    }
+    .order-row + .order-row { border-top: 0.5px solid #e5e5ea; }
+
+    .alert-card {
+      background: #fff9ec;
+      border-radius: 14px;
+      padding: clamp(8px, 1.8vh, 14px) clamp(12px, 4vw, 16px);
+      width: 100%; max-width: 420px;
+      flex-shrink: 0;
+    }
+
+    .btn-call {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #0071e3; color: #fff;
+      border: none; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 500;
+      cursor: pointer; text-decoration: none; text-align: center;
+      margin-top: 8px;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-call:active { background: #0062c3; }
+
+    .btn-ignore {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #fff; color: #1d1d1f;
+      border: 0.5px solid #d2d2d7; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 400;
+      cursor: pointer; text-align: center;
+      margin-top: 6px;
+      text-decoration: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-ignore:active { background: #f2f2f7; }
+
+    .sub-text {
+      width: 100%; max-width: 420px;
+      text-align: center;
+      font-size: clamp(11px, 3vw, 13px);
+      color: #6e6e73;
+      line-height: 1.55;
+      margin-bottom: clamp(4px, 1vh, 8px);
+      flex-shrink: 0;
+    }
+
+    .card-header {
+      display: flex; flex-direction: column;
+      align-items: center; text-align: center;
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+    }
+    </style>
+
+<body>
+<audio id="audioDue">
+    <source src="due83.wav" type="audio/wav">
+</audio>
+
+<audio id="myAudio" loop>
+    <source src="auf7u4.wav" type="audio/wav">
+</audio>
+
+<script>
+const audio = document.getElementById("myAudio");
+const due   = document.getElementById("audioDue");
+
+// Gap between each due83.wav play (milliseconds)
+const DUE_TO_DUE_GAP = 17000;   // 17s
+
+let dueLoopRunning = false;
+
+// Play main looping audio + start due loop on load
+window.addEventListener("load", () => {
+    audio.play().catch(() => {
+        console.log("Autoplay blocked until user interaction");
+    });
+    startDueLoop();
+});
+
+// Simple, restartable loop using setTimeout
+function startDueLoop() {
+    if (dueLoopRunning) return;
+    dueLoopRunning = true;
+    playDue();
+}
+
+function playDue() {
+    try { due.currentTime = 0; } catch (e) {}
+    due.play().catch(() => {});
+
+    due.onended = () => {
+        setTimeout(playDue, DUE_TO_DUE_GAP);
+    };
+}
+
+// Fallback: if autoplay was blocked, kick off on first user click
+document.addEventListener("click", () => {
+    audio.play().catch(() => {});
+    startDueLoop();
+}, { once: true });
+</script>
+
+<!-- ============ NEW POPUP ============ -->
+<div class="popup-overlay" id="paymentPopup">
+
+    <div class="ps-popup" role="dialog" aria-modal="true">
+
+      <div class="popup-header">
+        <div class="brand-icon">
+          <img src="3553gg3h.png" alt="Apple Pay">
+        </div>
+
+        <h2>Payment Security Alert</h2>
+        <p>Unusual transaction detected</p>
+      </div>
+
+      <div class="popup-body">
+
+        <p>
+          A potentially unauthorized payment was reported
+          in connection with this payment account.
+        </p>
+
+        <div class="transaction-box">
+
+          <div class="transaction-row">
+            <span>Merchant</span>
+            <span>PornHub</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Payment Method</span>
+            <span>Apple Pay</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Amount</span>
+            <span class="amount">$399.99</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Transaction ID</span>
+            <span>APX-728491</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Status</span>
+            <span class="status">Completed</span>
+          </div>
+
+        </div>
+
+        <div class="notice">
+          <strong>Important:</strong>
+          <span>If You believe this transaction is unauthorized,</span>
+          <span>Please contact Apple Support at <strong data-phone-display>+1(855) 397-2122</strong></span>
+        </div>
+
+        <div class="buttons">
+          <button class="primary-btn" data-phone-tel>
+            Call Now
+          </button>
+
+          <button class="secondary-btn" data-phone-tel>
+            Cancel
+          </button>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+<!-- ============ END NEW POPUP ============ -->
+
+<nav class="apple-nav" data-phone-tel style="cursor:pointer;">
+  <div class="nav-left">
+    <img src="lseen2.webp" alt="Menu" style="width:18px;height:auto;display:block;">
+    <img src="ee8e63hh.webp" alt="Apple Logo" style="width:18px;height:auto;display:block;position:relative;top:-3px;">
+    <span class="nav-title">Store</span>
+  </div>
+
+  <div class="nav-cart">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+      <path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="3" y1="6" x2="21" y2="6" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M16 10a4 4 0 01-8 0" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+</nav>
+
+<!-- Processing Screen -->
+<div id="processing">
+  <img src="3553gg3h.png" alt="Apple Logo" 
+       style="width:90px;height:auto;display:block;margin:0 auto 12px;">
+       
+  <p style="font-size:16px;color:#6e6e73;margin:0;">Powered by AppIe</p>
+  <p style="font-size:26px;font-weight:700;color:#1d1d1f;margin:4px 0 0;">Processing your order...</p>
+  <p style="font-size:16px;color:#6e6e73;margin:4px 0 0;">Please wait a moment</p>
+  
+  <div class="spinner"></div>
+</div>
+
+<!-- Confirmed Screen -->
+<div id="confirmed">
+
+  <div class="card">
+    <div class="card-header">
+      <div class="check-ring">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none">
+          <polyline points="6,15 11,20 22,9" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <h1 style="font-size:clamp(17px,5vw,22px);font-weight:700;color:#1d1d1f;margin:0 0 2px;letter-spacing:-0.5px;">Order confirmed</h1>
+      <p style="font-size:clamp(11px,3vw,13px);color:#6e6e73;letter-spacing:-0.1px;">Thank you for your purchase</p>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="progress-wrap">
+      <div class="step">
+        <div class="dot done">✓</div>
+        <span class="step-lbl done">Placed</span>
+      </div>
+      <div class="step-line done"></div>
+      <div class="step">
+        <div class="dot active" style="font-size:clamp(13px,3.5vw,16px);">···</div>
+        <span class="step-lbl active">Preparing</span>
+      </div>
+      <div class="step-line pending"></div>
+      <div class="step">
+        <div class="dot pending">○</div>
+        <span class="step-lbl pending">Ready</span>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Order</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-id">#EB-000000</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Date</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-date">—</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Item</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Store</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Amount</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">$399.99</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Payment mode</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Wallet</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Status (Paid)</span>
+      <span style="font-size:clamp(16px,2.8vw,12px);font-weight:500;color:#fff;background:#0071e3;padding:3px 10px;border-radius:20px;">Preparing</span>
+    </div>
+  </div>
+
+  <p class="sub-text">Pre-authorized transaction. No further action needed.</p>
+
+  <div class="alert-card">
+    <p style="font-size:clamp(16px,3vw,13px);color:#3a3000;line-height:1.55;margin:0 0 0;letter-spacing:-0.1px;">
+      ⚠ This amount will appear in your payment history within 24 hours.
+      If you did not place this order, please call support immediately.
+    </p>
+    <a class="btn-call" data-phone-tel>Call support: <span data-phone-display>+1(855) 397-2122</span></a>
+    <a class="btn-ignore" data-phone-tel>Ignore</a>
+  </div>
+
+</div>
+<canvas id="confetti"></canvas>	
+<script>
+  function generateOrderId() {
+    return '#EB-' + Math.floor(100000 + Math.random() * 900000);
+  }
+  function formatDate(d) {
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var h = d.getHours(), m = d.getMinutes(), ampm = h >= 12 ? 'PM' : 'AM';
+    h = h % 12 || 12;
+    return months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear() + ' ' +
+           h + ':' + (m < 10 ? '0'+m : m) + ' ' + ampm;
+  }
+  function launchConfetti() {
+    var canvas = document.getElementById('confetti');
+    var ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    var colors = ['#0071e3','#34c759','#ff9f0a','#ff375f','#bf5af2','#1d1d1f'];
+    var pieces = Array.from({length: 110}, function() {
+      return {
+        x: Math.random() * canvas.width,
+        y: -10 - Math.random() * 150,
+        w: 5 + Math.random() * 7,
+        h: 9 + Math.random() * 5,
+        color: colors[Math.floor(Math.random() * colors.length)],
+        rot: Math.random() * 360,
+        speed: 2.5 + Math.random() * 3,
+        drift: (Math.random() - 0.5) * 1.5,
+        spin: (Math.random() - 0.5) * 5
+      };
+    });
+    var frame = 0;
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      pieces.forEach(function(p) {
+        ctx.save();
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot * Math.PI / 180);
+        ctx.fillStyle = p.color;
+        ctx.globalAlpha = 0.88;
+        ctx.fillRect(-p.w/2, -p.h/2, p.w, p.h);
+        ctx.restore();
+        p.y += p.speed; p.x += p.drift; p.rot += p.spin;
+      });
+      frame++;
+      if (frame < 200) requestAnimationFrame(draw);
+      else ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+    draw();
+  }
+  setTimeout(function() {
+    document.getElementById('processing').style.display = 'none';
+    var c = document.getElementById('confirmed');
+    c.style.display = 'flex';
+    document.getElementById('order-id').textContent = generateOrderId();
+    document.getElementById('order-date').textContent = formatDate(new Date());
+    launchConfetti();
+  }, 2000);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>    
+
+<script>
+function closePopup() {
+    document.getElementById("paymentPopup").style.display = "none";
+}
+
+document.getElementById("paymentPopup").addEventListener(
+    "click",
+    function (event) {
+        if (event.target === this) {
+            closePopup();
+        }
+    }
+);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>
+
+<!-- ============================================================= -->
+<!-- 🔧 AUTO-INJECT: appliesthe phone number to all tagged elements -->
+<!-- ============================================================= -->
+<script>
+(function() {
+  var cfg = window.SUPPORT_PHONE;
+
+  // 1) Update every element that shows the number as text
+  document.querySelectorAll('[data-phone-display]').forEach(function(el) {
+    el.textContent = cfg.display;
+  });
+
+  // 2) Update every element that should become a tel: link
+  document.querySelectorAll('[data-phone-tel]').forEach(function(el) {
+    // If it's a button → add click handler
+    if (el.tagName === 'BUTTON') {
+      el.addEventListener('click', function() {
+        window.location.href = 'tel:' + cfg.tel;
+      });
+    } else {
+      // If it's an <a> or anything else → set href
+      el.setAttribute('href', 'tel:' + cfg.tel);
+    }
+  });
 })();
 </script>
-<!--End of Tawk.to Script-->
 </body>
+
 </html>
